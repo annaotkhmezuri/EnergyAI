@@ -10,7 +10,7 @@ const energyProviders = [
   {
     id: 1,
     name: "Iberdrola",
-    logo: "/placeholder.svg?height=40&width=120&text=Iberdrola",
+    logo: "https://www.liderlogo.es/wp-content/uploads/2022/12/IBE.MC-a357ed2a-1536x1407.png",
     color: "#00A651",
   },
   {
